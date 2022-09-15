@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
-languageCode = "en-us"
-title = "Apsho | App landing template"
+languageCode = "fr"
+title = "Accueil à La Source"
 theme = "apsho"
 
 # Navigation Bar
@@ -42,22 +42,22 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = "1 Les Roussets 03250 Châtel-Montagne, France"
+email = "N/A"
+phone = "N/A"
 
 # Footer Social
 [params.social]
-facebook = "https://www.facebook.com/pg/staticmania"
-twitter = "https://twitter.com/static_mania"
-github = "https://github.com/StaticMania"
+facebook = 
+twitter = 
+github = 
 
 [params]
 
 # Header
 logo = "images/logo.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
-googleAnalytics = "UA-175025671-2"
+googleAnalytics = ""
 
 # Footer
 footerTitle = "Get the latest app updates"
