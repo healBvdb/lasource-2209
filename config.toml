@@ -48,14 +48,14 @@ phone = "N/A"
 
 # Footer Social
 [params.social]
-facebook = 
-twitter = 
-github = 
+facebook = ""
+twitter = ""
+github = "https://github.com/healBvdb/lasource-2209"
 
 [params]
 
 # Header
-logo = "images/logo.png"
+logo = "images/logo-tempo.png"
 fabFormURL = "https://fabform.io/f/zWMBVeW"
 googleAnalytics = ""
 
